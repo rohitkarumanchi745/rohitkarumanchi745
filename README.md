@@ -21,7 +21,7 @@
 - Building **AI agents** with LangGraph, LangChain & MCP Servers
 - Developing **cross-platform mobile apps** with React Native & Swift
 - Training **on-device ML** with federated learning & reinforcement learning
-- Designing **real-time systems** with WebSockets, Kafka & graph databases
+- Designing **real-time data pipelines** with Kafka, Ray, DataFusion & graph databases
 
 <br clear="right"/>
 
@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP_Server-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataFusion-000000?style=flat-square&logo=apachearrow&logoColor=white"/>
 </p>
 
 > Real-time chat & voice calls via WebSockets  
@@ -60,7 +62,8 @@
 > Stripe payments with tiered pricing  
 > Federated learning + reinforcement learning on-device  
 > AI agents with LangGraph & MCP Server integration  
-> Event streaming + analytics via DataFusion SQL  
+> Distributed compute with Ray for ML pipelines  
+> Event streaming via Kafka + analytics with DataFusion SQL  
 
 </td>
 <td width="50%">
@@ -156,9 +159,17 @@
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP_Server-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"/>
 <img src="https://img.shields.io/badge/Federated_Learning-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Reinforcement_Learning-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+</p>
+
+### Data & Streaming
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataFusion-000000?style=for-the-badge&logo=apachearrow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
 ### Mobile
