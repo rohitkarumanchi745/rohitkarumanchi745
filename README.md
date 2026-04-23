@@ -21,6 +21,7 @@
 - Building **AI agents** with LangGraph, LangChain & MCP Servers
 - Developing **cross-platform mobile apps** with React Native & Swift
 - Training **on-device ML** with federated learning & reinforcement learning
+- Working with **vector databases**, embeddings & semantic search
 - Designing **real-time data pipelines** with Kafka, Ray, DataFusion & graph databases
 
 <br clear="right"/>
@@ -56,6 +57,8 @@
 <img src="https://img.shields.io/badge/DataFusion-000000?style=flat-square&logo=apachearrow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cadence-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-10B981?style=flat-square"/>
 </p>
 
 > Real-time chat & voice calls via WebSockets  
@@ -66,6 +69,7 @@
 > AI agents with LangGraph & MCP Server integration  
 > Distributed compute with Ray for ML pipelines  
 > Cadence workflow orchestration across microservices  
+> Vector DB + embeddings for semantic search & matching  
 > Deployed on Railway + event streaming via Kafka  
 
 </td>
@@ -166,6 +170,8 @@
 <img src="https://img.shields.io/badge/Federated_Learning-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Reinforcement_Learning-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-DC382D?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge"/>
 </p>
 
 ### Data & Streaming
