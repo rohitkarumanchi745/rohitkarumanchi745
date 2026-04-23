@@ -1,0 +1,187 @@
+<div align="center">
+
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Rohit+Karumanchi;Full+Stack+%2B+Data+Engineer;Building+Products+That+Scale" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-rohitkarumanchi745-181717?style=for-the-badge&logo=github)](https://github.com/rohitkarumanchi745)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rohitkarumanchi745/rohit-portfolio)
+
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitkarumanchi745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420"/>
+
+### About Me
+
+- Building **high-performance backends** in Rust & Python
+- Designing **real-time systems** with WebSockets & Kafka
+- Working with **graph databases** and geo-spatial data
+- Exploring **on-device ML** with federated learning
+- Passionate about **scalable architecture** and clean APIs
+
+<br clear="right"/>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/-Featured-FF6B6B?style=flat-square" /> Nava Dating Backend
+<p><strong>High-performance dating platform built for scale</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+</p>
+
+> Real-time chat & voice calls via WebSockets  
+> Vision AI photo verification & face liveness  
+> Geo-matching with heatmap generation  
+> Stripe payments with tiered pricing  
+> Federated learning for on-device recommendations  
+> Event streaming + analytics via DataFusion SQL  
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/-App-4FC08D?style=flat-square" /> Telugu Dating App v1
+<p><strong>Full-stack dating app for the Telugu community</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+> Modern React frontend with TypeScript  
+> Responsive mobile-first UI  
+> Real-time matching interface  
+
+<br/>
+
+### <img src="https://img.shields.io/badge/-API-FF9900?style=flat-square" /> Telugu Dating Backend
+<p><strong>Backend services for the Telugu dating platform</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+> RESTful API with async Python  
+> JWT authentication & OAuth2  
+> Database migrations & ORM  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/-Site-6366F1?style=flat-square" /> Rohit Portfolio
+<p><strong>Personal portfolio & project showcase</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+> Full Stack & Data Engineering showcase  
+> Modern responsive design  
+> Project case studies  
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/-Dashboard-8B5CF6?style=flat-square" /> Ambassador Dashboard
+<p><strong>Admin dashboard for the Nava platform</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+> Ambassador management system  
+> Analytics & metrics dashboard  
+> Role-based access control  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript" />
+</p>
+
+### Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,graphql,nodejs" />
+</p>
+
+### Databases & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,kubernetes" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Tools & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,prometheus,grafana" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohitkarumanchi745&theme=tokyonight&hide_border=true" width="520"/>
+
+<br/><br/>
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkarumanchi745&theme=tokyo-night&hide_border=true&area=true" width="800"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rohitkarumanchi745&style=for-the-badge&color=6366F1" alt="Profile views"/>
+</div>
