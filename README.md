@@ -59,6 +59,9 @@
 <img src="https://img.shields.io/badge/Cadence-4B0082?style=flat-square"/>
 <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white"/>
 <img src="https://img.shields.io/badge/Embeddings-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
 > Real-time chat & voice calls via WebSockets  
@@ -159,6 +162,9 @@
 <img src="https://skillicons.dev/icons?i=fastapi,graphql,nodejs" />
 &nbsp;
 <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ### AI & ML
