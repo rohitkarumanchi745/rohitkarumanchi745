@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Rohit+Karumanchi;Full+Stack+%2B+Data+Engineer;Building+Products+That+Scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey%2C+I'm+Rohit+Karumanchi;Full+Stack+%2B+ML+%2B+AI+Engineer;Building+Products+That+Scale" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 ### About Me
 
-- Building **high-performance backends** in Rust & Python
-- Designing **real-time systems** with WebSockets & Kafka
-- Working with **graph databases** and geo-spatial data
-- Exploring **on-device ML** with federated learning
-- Passionate about **scalable architecture** and clean APIs
+- Building **high-performance backends** in Rust, Python & Swift
+- Building **AI agents** with LangGraph, LangChain & MCP Servers
+- Developing **cross-platform mobile apps** with React Native & Swift
+- Training **on-device ML** with federated learning & reinforcement learning
+- Designing **real-time systems** with WebSockets, Kafka & graph databases
 
 <br clear="right"/>
 
@@ -48,13 +48,18 @@
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_Server-8B5CF6?style=flat-square"/>
 </p>
 
 > Real-time chat & voice calls via WebSockets  
 > Vision AI photo verification & face liveness  
 > Geo-matching with heatmap generation  
 > Stripe payments with tiered pricing  
-> Federated learning for on-device recommendations  
+> Federated learning + reinforcement learning on-device  
+> AI agents with LangGraph & MCP Server integration  
 > Event streaming + analytics via DataFusion SQL  
 
 </td>
@@ -136,12 +141,31 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript" />
+<img src="https://skillicons.dev/icons?i=rust,python,typescript,swift,javascript" />
 </p>
 
 ### Backend & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,graphql,nodejs" />
+&nbsp;
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
+
+### AI & ML
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_Server-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Federated_Learning-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+</p>
+
+### Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=react,swift" />
+&nbsp;
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ### Databases & Infrastructure
