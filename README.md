@@ -205,8 +205,23 @@
 
 <br/><br/>
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400"/>
+<!-- Top languages (public repos) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" width="400"/>
+
+<br/><br/>
+
+<!-- Custom language/tech breakdown -->
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=rust" width="40"/><br/><strong>Rust</strong></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><strong>Python</strong></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/><strong>TypeScript</strong></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=swift" width="40"/><br/><strong>Swift</strong></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/><strong>JavaScript</strong></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><strong>SQL</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/GQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="40"/><br/><strong>GraphQL</strong></td>
+</tr>
+</table>
 
 <br/><br/>
 
