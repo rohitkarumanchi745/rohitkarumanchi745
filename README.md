@@ -223,7 +223,7 @@
 <br/><br/>
 
 <!-- Top languages (public repos) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" width="400"/>
 
 <br/><br/>
 
