@@ -54,6 +54,8 @@
 <img src="https://img.shields.io/badge/MCP_Server-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white"/>
 <img src="https://img.shields.io/badge/DataFusion-000000?style=flat-square&logo=apachearrow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cadence-4B0082?style=flat-square"/>
 </p>
 
 > Real-time chat & voice calls via WebSockets  
@@ -63,7 +65,8 @@
 > Federated learning + reinforcement learning on-device  
 > AI agents with LangGraph & MCP Server integration  
 > Distributed compute with Ray for ML pipelines  
-> Event streaming via Kafka + analytics with DataFusion SQL  
+> Cadence workflow orchestration across microservices  
+> Deployed on Railway + event streaming via Kafka  
 
 </td>
 <td width="50%">
@@ -182,6 +185,14 @@
 ### Databases & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,kubernetes" />
+&nbsp;
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+</p>
+
+### Workflow & Microservices
+<p>
+<img src="https://img.shields.io/badge/Cadence-4B0082?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge"/>
 </p>
 
 ### Frontend
