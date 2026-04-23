@@ -34,7 +34,7 @@
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/-Featured-FF6B6B?style=flat-square" /> Nava Dating Backend
+### <img src="https://img.shields.io/badge/-Featured-FF6B6B?style=flat-square" /> <a href="https://github.com/rohitkarumanchi745/nava-dating-backend-main">Nava Dating Backend</a>
 <p><strong>High-performance dating platform built for scale</strong></p>
 
 <p>
@@ -78,7 +78,7 @@
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/-App-4FC08D?style=flat-square" /> Telugu Dating App v1
+### <img src="https://img.shields.io/badge/-App-4FC08D?style=flat-square" /> <a href="https://github.com/rohitkarumanchi745/telugu-dating-app-v1">Telugu Dating App v1</a>
 <p><strong>Full-stack dating app for the Telugu community</strong></p>
 
 <p>
@@ -93,7 +93,7 @@
 
 <br/>
 
-### <img src="https://img.shields.io/badge/-API-FF9900?style=flat-square" /> Telugu Dating Backend
+### <img src="https://img.shields.io/badge/-API-FF9900?style=flat-square" /> <a href="https://github.com/rohitkarumanchi745/telugu-dating-backend">Telugu Dating Backend</a>
 <p><strong>Backend services for the Telugu dating platform</strong></p>
 
 <p>
@@ -111,7 +111,7 @@
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/-Site-6366F1?style=flat-square" /> Rohit Portfolio
+### <img src="https://img.shields.io/badge/-Site-6366F1?style=flat-square" /> <a href="https://github.com/rohitkarumanchi745/rohit-portfolio">Rohit Portfolio</a>
 <p><strong>Personal portfolio & project showcase</strong></p>
 
 <p>
@@ -128,7 +128,7 @@
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/-Dashboard-8B5CF6?style=flat-square" /> Ambassador Dashboard
+### <img src="https://img.shields.io/badge/-Dashboard-8B5CF6?style=flat-square" /> <a href="https://github.com/rohitkarumanchi745/nava-dating-backend-main">Ambassador Dashboard</a>
 <p><strong>Admin dashboard for the Nava platform</strong></p>
 
 <p>
