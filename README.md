@@ -20,7 +20,7 @@
 - Building **high-performance backends** in Rust, Python & Swift
 - Building **AI agents** with LangGraph, LangChain & MCP Servers
 - Developing **cross-platform mobile apps** with React Native & Swift
-- Training **on-device ML** with federated learning & reinforcement learning
+- Training **on-device ML** with federated learning & reinforcement learning and edge 
 - Working with **vector databases**, embeddings & semantic search
 - Designing **real-time data pipelines** with Kafka, Ray, DataFusion & graph databases
 
