@@ -31,19 +31,3 @@
 
 
 
-<!-- GitHub streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohitkarumanchi745&theme=tokyonight&hide_border=true" width="520"/>
-
-<br/><br/>
-
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkarumanchi745&theme=tokyo-night&hide_border=true&area=true" width="800"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rohitkarumanchi745&style=for-the-badge&color=6366F1" alt="Profile views"/>
-</div>
