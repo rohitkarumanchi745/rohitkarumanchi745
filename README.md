@@ -35,45 +35,6 @@
 <td width="50%">
 
 ### <img src="https://img.shields.io/badge/-Featured-FF6B6B?style=flat-square" /> <a href="https://github.com/rohitkarumanchi745/nava-dating-backend-main">Nava Dating Backend</a>
-<p><strong>High-performance dating platform built for scale</strong></p>
-
-<p>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP_Server-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataFusion-000000?style=flat-square&logo=apachearrow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cadence-4B0082?style=flat-square"/>
-<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embeddings-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-</p>
-
-> Real-time chat & voice calls via WebSockets  
-> Vision AI photo verification & face liveness  
-> Geo-matching with heatmap generation  
-> Stripe payments with tiered pricing  
-> Federated learning + reinforcement learning on-device  
-> AI agents with LangGraph & MCP Server integration  
-> Distributed compute with Ray for ML pipelines  
-> Cadence workflow orchestration across microservices  
-> Vector DB + embeddings for semantic search & matching  
-> Deployed on Railway + event streaming via Kafka  
 
 </td>
 <td width="50%">
@@ -228,25 +189,6 @@
 
 <br/><br/>
 
-<!-- Top languages (public repos) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=300&v=2" width="400"/>
-
-<br/><br/>
-
-<!-- Custom language/tech breakdown -->
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=rust" width="40"/><br/><strong>Rust</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><strong>Python</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/><strong>TypeScript</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=swift" width="40"/><br/><strong>Swift</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/><strong>JavaScript</strong></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><strong>SQL</strong></td>
-<td align="center"><img src="https://img.shields.io/badge/GQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="40"/><br/><strong>GraphQL</strong></td>
-</tr>
-</table>
-
-<br/><br/>
 
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkarumanchi745&theme=tokyo-night&hide_border=true&area=true" width="800"/>
