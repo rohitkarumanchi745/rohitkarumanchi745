@@ -66,6 +66,11 @@
 
 <a href="https://github.com/rohitkarumanchi745"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkarumanchi745&bg_color=344E41&color=FEFAE0&line=A7C957&point=E9C46A&area=true&area_color=6A994E&hide_border=true" width="100%" alt="Contribution activity"></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitkarumanchi745/rohitkarumanchi745/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/rohitkarumanchi745/rohitkarumanchi745/output/snake-light.svg" width="100%" alt="contribution snake eating this year's commits">
+</picture>
+
 <img src="assets/progress.svg" width="100%" alt="In Progress">
 
 </div>
