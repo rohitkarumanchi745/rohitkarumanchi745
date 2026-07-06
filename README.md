@@ -80,7 +80,7 @@
 <img src="assets/hello.svg" width="100%" alt="Say Hello">
 
 <a href="mailto:rkkarumanchi98@gmail.com"><img src="https://img.shields.io/badge/Email-BC6C25?style=for-the-badge&logo=gmail&logoColor=FEFAE0" alt="Email"></a>
-<a href="https://github.com/rohitkarumanchi745/rohit-portfolio"><img src="https://img.shields.io/badge/Portfolio-6A994E?style=for-the-badge&logo=googlechrome&logoColor=FEFAE0" alt="Portfolio"></a>
+<a href="https://rohitkarumanchi.com"><img src="https://img.shields.io/badge/Portfolio-6A994E?style=for-the-badge&logo=googlechrome&logoColor=FEFAE0" alt="Portfolio"></a>
 <a href="https://github.com/rohitkarumanchi745"><img src="https://img.shields.io/badge/GitHub-386641?style=for-the-badge&logo=github&logoColor=FEFAE0" alt="GitHub"></a>
 
 <img src="assets/footer.svg" width="100%" alt="grown slowly · shipped ripe · no cloud added">
