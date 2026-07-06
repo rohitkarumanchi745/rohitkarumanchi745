@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 58" role="img" aria-label="SELECTED WORK">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 58" role="img" aria-label="BY THE NUMBERS">
   <defs>
     <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#24382B"/>
@@ -16,5 +16,5 @@
     <path d="M 265 29 m -5 0 l 5 -5 l 5 5 l -5 5 z"/>
     <path d="M 595 29 m -5 0 l 5 -5 l 5 5 l -5 5 z"/>
   </g>
-  <text x="430" y="36" font-family="Georgia,'Times New Roman',serif" font-size="19" letter-spacing="6" fill="#FEFAE0" text-anchor="middle">SELECTED WORK</text>
+  <text x="430" y="36" font-family="Georgia,'Times New Roman',serif" font-size="19" letter-spacing="6" fill="#FEFAE0" text-anchor="middle">BY THE NUMBERS</text>
 </svg>

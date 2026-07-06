@@ -1,90 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 860 140" role="img" aria-label="Karumanchi Groves seal: grown slowly, shipped ripe — est. quality">
-  <title>grown slowly · shipped ripe</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 96" role="img" aria-label="grown slowly, shipped ripe">
   <defs>
-    <radialGradient id="paperF" cx="50%" cy="40%" r="90%">
-      <stop offset="0%" stop-color="#FFFDEF"/>
-      <stop offset="60%" stop-color="#FBF3D6"/>
-      <stop offset="100%" stop-color="#EFE0B5"/>
-    </radialGradient>
-    <radialGradient id="fleshF" cx="50%" cy="42%" r="70%">
-      <stop offset="0%" stop-color="#FBF2CE"/>
-      <stop offset="50%" stop-color="#E4E5A2"/>
-      <stop offset="100%" stop-color="#A7C957"/>
-    </radialGradient>
-    <radialGradient id="pitF" cx="36%" cy="30%" r="80%">
-      <stop offset="0%" stop-color="#DA9A50"/>
-      <stop offset="60%" stop-color="#BC6C25"/>
-      <stop offset="100%" stop-color="#844716"/>
-    </radialGradient>
-    <path id="sealTop" d="M 380 74 A 50 50 0 0 1 480 74" fill="none"/>
-    <path id="sealBot" d="M 378 70 A 52 52 0 0 0 482 70" fill="none"/>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#344E41"/>
+      <stop offset="100%" stop-color="#182818"/>
+    </linearGradient>
   </defs>
-  <rect x="0" y="0" width="860" height="140" fill="#E8D9A8"/>
-  <rect x="4" y="4" width="852" height="132" fill="url(#paperF)"/>
-  <g fill="#6F4E37" opacity="0.07">
-    <circle cx="130" cy="30" r="1.1"/><circle cx="300" cy="112" r="1"/><circle cx="536" cy="20" r="0.9"/>
-    <circle cx="710" cy="104" r="1.1"/><circle cx="90" cy="96" r="0.9"/><circle cx="806" cy="42" r="1"/>
-    <circle cx="410" cy="18" r="0.8"/><circle cx="620" cy="120" r="0.9"/>
+  <rect width="860" height="96" fill="url(#fbg)"/>
+  <rect x="8" y="8" width="844" height="80" fill="none" stroke="#A7C957" stroke-width="1" opacity="0.75"/>
+  <rect x="13" y="13" width="834" height="70" fill="none" stroke="#E9C46A" stroke-width="0.5" opacity="0.55"/>
+  <g transform="translate(430,38)">
+    <circle r="17" fill="none" stroke="#E9C46A" stroke-width="0.75" opacity="0.9"/>
+    <ellipse cx="0" cy="0" rx="9" ry="12" fill="#386641"/>
+    <ellipse cx="0" cy="0.3" rx="7.4" ry="10.2" fill="#A7C957"/>
+    <ellipse cx="0" cy="0.5" rx="5.4" ry="8" fill="#FEFAE0"/>
+    <circle cx="0" cy="2.4" r="3.6" fill="#BC6C25"/>
   </g>
-  <g stroke="#6F4E37" opacity="0.05" stroke-width="0.8" fill="none">
-    <path d="M100 118 q60 -5 128 1"/><path d="M600 26 q52 6 108 -1"/>
+  <g stroke="#E9C46A" stroke-width="0.75" opacity="0.85">
+    <line x1="285" y1="38" x2="398" y2="38"/>
+    <line x1="462" y1="38" x2="575" y2="38"/>
   </g>
-  <rect x="7" y="7" width="846" height="126" fill="none" stroke="#344E41" stroke-width="4.5"/>
-  <rect x="13.5" y="13.5" width="833" height="113" fill="none" stroke="#BC6C25" stroke-width="1"/>
-  <g fill="#386641">
-    <circle cx="13.5" cy="13.5" r="2.4"/><circle cx="846.5" cy="13.5" r="2.4"/>
-    <circle cx="13.5" cy="126.5" r="2.4"/><circle cx="846.5" cy="126.5" r="2.4"/>
-  </g>
-
-  <!-- left block: grove sign-off -->
-  <g text-anchor="middle">
-    <text x="185" y="58" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" letter-spacing="3.5" fill="#344E41">KARUMANCHI GROVES</text>
-    <line x1="90" y1="70" x2="280" y2="70" stroke="#6F4E37" stroke-width="1" opacity="0.6"/>
-    <path d="M181 70 l4 -5 4 5 -4 5 Z" fill="#BC6C25"/>
-    <text x="185" y="90" font-family="Georgia,'Times New Roman',serif" font-size="11.5" font-style="italic" fill="#6F4E37">fresh software, sold by the crate</text>
-  </g>
-
-  <!-- right block: packing note -->
-  <g text-anchor="middle">
-    <text x="675" y="58" font-family="Georgia,'Times New Roman',serif" font-size="16" font-weight="bold" letter-spacing="3.5" fill="#344E41">PACKED BY ROHIT</text>
-    <line x1="580" y1="70" x2="770" y2="70" stroke="#6F4E37" stroke-width="1" opacity="0.6"/>
-    <path d="M671 70 l4 -5 4 5 -4 5 Z" fill="#BC6C25"/>
-    <text x="675" y="90" font-family="Georgia,'Times New Roman',serif" font-size="11.5" font-style="italic" fill="#6F4E37">crate no. 745 &#183; contents may contain models</text>
-  </g>
-
-  <!-- center: rubber-stamp seal -->
-  <g transform="rotate(-7 430 70)">
-    <g fill="none" stroke="#386641" opacity="0.92">
-      <circle cx="430" cy="70" r="56" stroke-width="3" stroke-dasharray="34 2 20 1.5 42 2 28 1.5"/>
-      <circle cx="430" cy="70" r="50.5" stroke-width="1.1"/>
-      <circle cx="430" cy="70" r="31" stroke-width="1.1" stroke-dasharray="24 1.5 30 1 26 1.5"/>
-    </g>
-    <g font-family="Georgia,'Times New Roman',serif" font-size="11.5" font-weight="bold" fill="#386641" letter-spacing="2.6" opacity="0.92">
-      <text><textPath xlink:href="#sealTop" startOffset="50%" text-anchor="middle">GROWN SLOWLY</textPath></text>
-      <text><textPath xlink:href="#sealBot" startOffset="50%" text-anchor="middle">SHIPPED RIPE</textPath></text>
-    </g>
-    <g fill="#386641" opacity="0.92">
-      <circle cx="389" cy="70" r="2"/>
-      <circle cx="471" cy="70" r="2"/>
-    </g>
-    <!-- tiny avocado at seal center -->
-    <g opacity="0.95">
-      <path d="M430 52 C439 52.5 442 62 441.5 68 C441 76 436 81 430 81 C424 81 419 76 418.5 68 C418 62 421 52.5 430 52 Z" fill="none" stroke="#386641" stroke-width="1.6"/>
-      <path d="M430 56 C436.5 56.5 439 63.5 438.6 68 C438.2 74 434.5 77.5 430 77.5 C425.5 77.5 421.8 74 421.4 68 C421 63.5 423.5 56.5 430 56 Z" fill="url(#fleshF)" opacity="0.85"/>
-      <circle cx="430" cy="68.5" r="5.6" fill="url(#pitF)"/>
-      <path d="M429.5 52 Q429.5 49 431.5 47.5" fill="none" stroke="#386641" stroke-width="1.4" stroke-linecap="round"/>
-    </g>
-    <text x="430" y="93" font-family="Georgia,'Times New Roman',serif" font-size="7" letter-spacing="1.6" fill="#386641" text-anchor="middle" opacity="0.92">EST. QUALITY</text>
-    <animateTransform attributeName="transform" type="rotate" values="-7 430 70; -5.5 430 70; -7 430 70" dur="9s" repeatCount="indefinite"/>
-  </g>
-
-  <!-- twinkles -->
+  <text x="430" y="76" font-family="Georgia,'Times New Roman',serif" font-size="12.5" font-style="italic" letter-spacing="2" fill="#A7C957" text-anchor="middle">grown slowly &#183; shipped ripe &#183; no cloud added</text>
   <g fill="#E9C46A">
-    <path d="M330 32 l2 -5.4 2 5.4 5.4 2 -5.4 2 -2 5.4 -2 -5.4 -5.4 -2 Z" opacity="0.65">
-      <animate attributeName="opacity" values="0.65;0.15;0.65" dur="5s" repeatCount="indefinite"/>
+    <path d="M 150 30 l 1.8 5 l 5 1.8 l -5 1.8 l -1.8 5 l -1.8 -5 l -5 -1.8 l 5 -1.8 z" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4.6s" repeatCount="indefinite"/>
     </path>
-    <path d="M520 106 l2 -5.4 2 5.4 5.4 2 -5.4 2 -2 5.4 -2 -5.4 -5.4 -2 Z" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="6s" begin="-2.5s" repeatCount="indefinite"/>
+    <path d="M 706 34 l 1.8 5 l 5 1.8 l -5 1.8 l -1.8 5 l -1.8 -5 l -5 -1.8 l 5 -1.8 z" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="5.4s" repeatCount="indefinite"/>
     </path>
   </g>
 </svg>
