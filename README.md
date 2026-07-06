@@ -23,6 +23,7 @@
 - Training **on-device ML** with federated learning & reinforcement learning and edge 
 - Working with **vector databases**, embeddings & semantic search
 - Designing **real-time data pipelines** with Kafka, Ray, DataFusion & graph databases
+- Studying and prototyping BitNet-style low-bit LLM implementations for local, offline, on-device inference without internet dependency
 
 <br clear="right"/>
 
