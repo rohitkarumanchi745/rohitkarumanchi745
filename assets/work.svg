@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 860 70" role="img" aria-label="Selected Work — hand-picked crates, packed fresh">
+  <title>Selected Work</title>
+  <defs>
+    <radialGradient id="paperW" cx="50%" cy="40%" r="90%">
+      <stop offset="0%" stop-color="#FFFDEF"/>
+      <stop offset="60%" stop-color="#FBF3D6"/>
+      <stop offset="100%" stop-color="#F0E2B8"/>
+    </radialGradient>
+    <clipPath id="clipW"><rect x="9" y="9" width="842" height="52"/></clipPath>
+    <path id="rayW" d="M430 35 L420 -80 L440 -80 Z"/>
+  </defs>
+  <rect x="0" y="0" width="860" height="70" fill="#E8D9A8"/>
+  <rect x="4" y="4" width="852" height="62" fill="url(#paperW)"/>
+  <g clip-path="url(#clipW)" fill="#E9C46A" opacity="0.13">
+    <use xlink:href="#rayW"/>
+    <use xlink:href="#rayW" transform="rotate(30 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(60 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(90 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(120 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(150 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(180 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(210 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(240 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(270 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(300 430 35)"/>
+    <use xlink:href="#rayW" transform="rotate(330 430 35)"/>
+    <animate attributeName="opacity" values="0.13;0.2;0.13" dur="8s" repeatCount="indefinite"/>
+  </g>
+  <g fill="#6F4E37" opacity="0.07">
+    <circle cx="180" cy="22" r="1"/><circle cx="366" cy="56" r="1.1"/><circle cx="590" cy="18" r="0.9"/>
+    <circle cx="742" cy="50" r="1"/><circle cx="96" cy="44" r="0.9"/><circle cx="812" cy="30" r="1"/>
+  </g>
+  <rect x="7" y="7" width="846" height="56" fill="none" stroke="#344E41" stroke-width="4.5"/>
+  <rect x="13.5" y="13.5" width="833" height="43" fill="none" stroke="#BC6C25" stroke-width="1"/>
+  <g fill="#386641">
+    <circle cx="13.5" cy="13.5" r="2.4"/><circle cx="846.5" cy="13.5" r="2.4"/>
+    <circle cx="13.5" cy="56.5" r="2.4"/><circle cx="846.5" cy="56.5" r="2.4"/>
+  </g>
+  <!-- flanking rules + diamonds -->
+  <g stroke="#6F4E37" stroke-width="1.1" opacity="0.75">
+    <line x1="42" y1="32" x2="242" y2="32"/>
+    <line x1="618" y1="32" x2="818" y2="32"/>
+  </g>
+  <g fill="#BC6C25">
+    <path d="M248 32 l4 -5.5 4 5.5 -4 5.5 Z"/>
+    <path d="M604 32 l4 -5.5 4 5.5 -4 5.5 Z"/>
+  </g>
+  <!-- little produce crates -->
+  <g>
+    <g transform="translate(272 32)">
+      <rect x="-11" y="-8" width="22" height="15" fill="#D9A05B" stroke="#6F4E37" stroke-width="1.2"/>
+      <line x1="-11" y1="-2.5" x2="11" y2="-2.5" stroke="#6F4E37" stroke-width="0.8" opacity="0.7"/>
+      <line x1="-3.5" y1="-8" x2="-3.5" y2="7" stroke="#6F4E37" stroke-width="0.8" opacity="0.5"/>
+      <line x1="3.5" y1="-8" x2="3.5" y2="7" stroke="#6F4E37" stroke-width="0.8" opacity="0.5"/>
+      <circle cx="-5" cy="-10" r="4.2" fill="#6A994E" stroke="#386641" stroke-width="0.8"/>
+      <circle cx="4" cy="-10.5" r="3.6" fill="#A7C957" stroke="#386641" stroke-width="0.8"/>
+    </g>
+    <g transform="translate(588 32) scale(-1 1)">
+      <rect x="-11" y="-8" width="22" height="15" fill="#D9A05B" stroke="#6F4E37" stroke-width="1.2"/>
+      <line x1="-11" y1="-2.5" x2="11" y2="-2.5" stroke="#6F4E37" stroke-width="0.8" opacity="0.7"/>
+      <line x1="-3.5" y1="-8" x2="-3.5" y2="7" stroke="#6F4E37" stroke-width="0.8" opacity="0.5"/>
+      <line x1="3.5" y1="-8" x2="3.5" y2="7" stroke="#6F4E37" stroke-width="0.8" opacity="0.5"/>
+      <circle cx="-5" cy="-10" r="4.2" fill="#6A994E" stroke="#386641" stroke-width="0.8"/>
+      <circle cx="4" cy="-10.5" r="3.6" fill="#A7C957" stroke="#386641" stroke-width="0.8"/>
+    </g>
+  </g>
+  <text x="430" y="38" font-family="Georgia,'Times New Roman',serif" font-size="23" font-weight="bold" letter-spacing="5" fill="#344E41" text-anchor="middle">SELECTED WORK</text>
+  <text x="430" y="54" font-family="Georgia,'Times New Roman',serif" font-size="10.5" font-style="italic" fill="#6F4E37" text-anchor="middle">hand-picked crates &#183; packed fresh</text>
+</svg>
