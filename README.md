@@ -1,34 +1,58 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey%2C+I'm+Rohit+Karumanchi;Full+Stack+%2B+ML+%2B+AI+Engineer;Building+Products+That+Scale" alt="Typing SVG" /></a>
+# Rohit Karumanchi 🥑
 
-<br/>
+**AI/ML & backend engineer** — models small enough to carry, systems fast enough to disappear.
 
-<!-- Social badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-rohitkarumanchi745-181717?style=for-the-badge&logo=github)](https://github.com/rohitkarumanchi745)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rohitkarumanchi745/rohit-portfolio)
+<sub><a href="https://github.com/rohitkarumanchi745">github</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/rohitkarumanchi745/rohit-portfolio">portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:rkkarumanchi98@gmail.com">rkkarumanchi98@gmail.com</a></sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:386641,25:A7C957,50:BC6C25,75:A7C957,100:386641&height=5" width="100%" alt="">
 
 </div>
 
----
+I work at the seam between machine learning and systems — the kind of engineering where a model has to fit in memory, answer in milliseconds, and never phone home. Lately that means prototyping BitNet-style low-bit LLMs for local, offline, on-device inference: asking how much intelligence survives when every weight is ternary.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitkarumanchi745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420"/>
+## Research Interests
 
-### About Me
+**On-device intelligence** — federated learning, reinforcement learning, and edge inference; low-bit LLMs that run where the data lives.
 
-- Building **high-performance backends** in Rust, Python & Swift
-- Building **AI agents** with LangGraph, LangChain & MCP Servers
-- Developing **cross-platform mobile apps** with React Native & Swift
-- Training **on-device ML** with federated learning & reinforcement learning and edge 
-- Working with **vector databases**, embeddings & semantic search
-- Designing **real-time data pipelines** with Kafka, Ray, DataFusion & graph databases
-- Studying and prototyping BitNet-style low-bit LLM implementations for local, offline, on-device inference without internet dependency
+**Agentic systems** — agents built with LangGraph, LangChain, and MCP servers, grounded by vector databases, embeddings, and semantic search.
 
-<br clear="right"/>
+**AI safety & red-teaming** — adversarial evaluation of LLMs with PyRIT; finding the failure modes before someone less friendly does.
 
----
+**Systems for ML** — high-performance backends in Rust, Python, and Swift; real-time pipelines on Kafka, Ray, DataFusion, and graph databases.
 
+## Selected Work
 
+\[1\] &nbsp;**pyrit-redteam-harness** — an LLM red-teaming harness built on PyRIT: attack orchestration and scoring, so failure modes surface in the lab, not in front of users.<br>
+<sub>&emsp;&nbsp;Python · <a href="https://github.com/rohitkarumanchi745/pyrit-redteam-harness">code</a></sub>
 
+\[2\] &nbsp;**nava-dating-backend-main** — the high-performance backend behind the Nava dating app; Rust in the hot path, latency budgets taken personally.<br>
+<sub>&emsp;&nbsp;Rust · <a href="https://github.com/rohitkarumanchi745/nava-dating-backend-main">code</a></sub>
 
+\[3\] &nbsp;**navaswift-ui-iOS-** — Nava's native iOS client, written in Swift; front of house to \[2\]'s kitchen.<br>
+<sub>&emsp;&nbsp;Swift · <a href="https://github.com/rohitkarumanchi745/navaswift-ui-iOS-">code</a></sub>
+
+\[4\] &nbsp;**rohit-portfolio** — personal site and portfolio; the long-form edition of this page.<br>
+<sub>&emsp;&nbsp;TypeScript · <a href="https://github.com/rohitkarumanchi745/rohit-portfolio">code</a></sub>
+
+## Ripening&ensp;<sub>currently in progress</sub>
+
+- **1–2-bit LLM prototypes** — pushing BitNet-style quantization toward fully offline, on-device inference; how far can a model shrink before it stops earning its keep?
+- **Edge-side learning** — federated and reinforcement learning that improve on the device, without ever centralizing the data.
+
+<sub>status: checked daily; still firm.</sub>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:386641,25:A7C957,50:BC6C25,75:A7C957,100:386641&height=5" width="100%" alt="">
+
+<sub>the thin rules on this page are avocados in cross-section — skin · flesh · pit · flesh · skin</sub>
+<br>
+<sub>grown slowly · shipped ripe</sub>
+
+</div>
