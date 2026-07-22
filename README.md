@@ -62,7 +62,7 @@
 <a href="https://github.com/rohitkarumanchi745"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohitkarumanchi745&show_icons=true&hide_border=true&bg_color=344E41&title_color=A7C957&text_color=FEFAE0&icon_color=E9C46A&ring_color=A7C957" height="165" alt="GitHub stats"></a>
 <a href="https://github.com/rohitkarumanchi745"><img src="https://streak-stats.demolab.com?user=rohitkarumanchi745&hide_border=true&background=344E41&ring=A7C957&fire=E9C46A&currStreakLabel=A7C957&currStreakNum=FEFAE0&sideLabels=A7C957&sideNums=FEFAE0&dates=E9C46A&stroke=6A994E" height="165" alt="Contribution streak"></a>
 
-<a href="https://github.com/rohitkarumanchi745?tab=repositories"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=donut&hide_border=true&bg_color=344E41&title_color=A7C957&text_color=FEFAE0" height="180" alt="Top languages"></a>
+<a href="https://github.com/rohitkarumanchi745?tab=repositories"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitkarumanchi745&layout=donut&langs_count=6&hide_border=true&bg_color=344E41&title_color=A7C957&text_color=FEFAE0" height="180" alt="Top languages"></a>
 
 <a href="https://github.com/rohitkarumanchi745"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkarumanchi745&bg_color=344E41&color=FEFAE0&line=A7C957&point=E9C46A&area=true&area_color=6A994E&hide_border=true" width="100%" alt="Contribution activity"></a>
 
