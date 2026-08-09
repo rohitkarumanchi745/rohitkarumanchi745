@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="128" role="img" aria-label="nava-dating-backend-main">
+  <rect x="0.5" y="0.5" width="439" height="127" rx="10" fill="#344E41" stroke="#6A994E" stroke-opacity="0.55"/>
+  <rect x="0.5" y="0.5" width="4" height="127" rx="2" fill="#A7C957"/>
+  <path transform="translate(16,20)" fill="#E9C46A" d="M2 .5A1.5 1.5 0 0 0 .5 2v9A1.5 1.5 0 0 0 2 12.5h1V14l2-1.5h6A1.5 1.5 0 0 0 12.5 11V2A1.5 1.5 0 0 0 11 .5H2Z" opacity="0.9"/>
+  <text x="38" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#A7C957">nava-dating-backend-main</text>
+  <text x="20" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#B8C9B0">High-performance dating-app backend written in Rust</text>
+  <circle cx="24" cy="106" r="6" fill="#DEA584"/>
+  <text x="36" y="110" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#FEFAE0">Rust</text>
+</svg>
